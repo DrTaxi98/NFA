@@ -1,6 +1,6 @@
 Regular Expressions Compilation into Non-Deterministic Finite State Automatas
 
-The file nfa.pl is a Lisp library for regular expressions compilation
+The file nfa.lisp is a Lisp library for regular expressions compilation
 into non-deterministic finite state automatas.
 
 Functions to use:
