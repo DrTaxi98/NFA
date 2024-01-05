@@ -2,7 +2,7 @@
 University Prolog and Common Lisp project that implements a regular languages compiler and NFA tester.
 
 ## Regular Expressions Compilation into Non-Deterministic Finite State Automatas
-This project consist in two libraries (written in Prolog and Common Lisp) for regular expressions compilation into non-deterministic finite state automatas and for their testing.
+This project consists of two libraries (written in Prolog and Common Lisp) for regular expressions compilation into non-deterministic finite state automatas and for their testing.
 
 ## Guidelines
 [202001 E1P NFA.pdf](https://github.com/DrTaxi98/NFA/blob/master/202001%20E1P%20NFA.pdf)
